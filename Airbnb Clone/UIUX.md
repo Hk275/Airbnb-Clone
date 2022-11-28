@@ -1,0 +1,15 @@
+- Alt texts for all images 
+- All html attributes are closed 
+- Consistent Design throughout - same colour is used, so user is not confused 
+- Colour contrast, easy to read text 
+- Buttons represented by colour which reperesent the outcoms, such as Reject booking is in Red and Accept booking is in Green, this is consistnet with real world apps, so user is not conffused. Is not required to learn/adjust to the App. Similar goes for all errors. (Matching mental models/schemas already created by the user from previous experinces) + Common Standards & Conventions
+- Icons have been used at certain locations which repersent the information they are displaying such as the construction icon with yellow background on create listing, locked icon on the login and registerd page, bed and bathroom icons
+- Consistent colour scheme has been used not to flashy
+- Header section has been defined seperatly from the entire page making it easy to access certain elemtns
+- Presents the main goal (booking) as the first thing the app loads with clear headers, putting the users goals first, similar for accepting and decling big and bold tittle
+- Appropiate feedback is given to user if success or failure based on their actions such as accepting/declining a booking, entering a review, login,register, and create listing page error and remndiers. 
+- Saftey also has been satisfed used whilst setting dates to make sure user does not set the start date of booking/availbilty after the end date
+- An intuitive applicaiton with clear guide lines, such as "Enter details of listing"
+- Visibale due to borders created and colour contrast 
+- Minimalism - app maintins alot of white space so user does not feel bombared with content + reduces cognitive load
+- Alligment has been used to be center, makes it easer to browse as content is displayed via a single direciton
